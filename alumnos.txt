@@ -1,0 +1,1 @@
+[{'nombre': 'a', 'apellido': 'a', 'fecha': 'a', 'dni': 'a', 'tutor': 'a', 'notas': 'a', 'faltas': 'a', 'amonestaciones': 'a'}, {'nombre': '3', 'apellido': '3', 'fecha': '3', 'dni': '3', 'tutor': '3', 'notas': '3', 'faltas': '3', 'amonestaciones': '3'}, {'nombre': 'd', 'apellido': 'd', 'fecha': 'd', 'dni': 'd', 'tutor': 'd', 'notas': 'd', 'faltas': 'd', 'amonestaciones': 'd'}]
